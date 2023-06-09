@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'video-player';
+  fun(){
+    console.log("tittle")
+  }  
 }
